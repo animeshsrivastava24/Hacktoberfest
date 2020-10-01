@@ -6,4 +6,7 @@ The Hangover 3 - 2013
 
 # Scifi
 <Add movie name> <Add release date>
-Predestination : January 9, 2015
+Predestination - January 9, 2015
+Gravity - 11 October 2013
+Interstellar - 7 November 2014 
+The Martian - 2 October 2015
