@@ -1,6 +1,8 @@
 # Comedy
 <Add movie name> <Add release date>
-
+The Hangover - 2009
+The Hangover 2 - 2011
+The Hangover 3 - 2013
 
 # Scifi
 <Add movie name> <Add release date>
