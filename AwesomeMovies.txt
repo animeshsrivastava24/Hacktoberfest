@@ -1,5 +1,6 @@
 # Comedy
 <Add movie name> - <Add release date>
+Phir Hera Pheri - 9 June 2006
 3 idiots - 25 December 2009
 Deadpool - 12 February 2016
 The Hangover - 2009
