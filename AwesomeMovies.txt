@@ -15,6 +15,13 @@ Rush Hour -1998
 Rush Hour 2 -2001
 Rush Hour 3 -2007
 Baby's day out-1994
+The Angry Birds Movie - 2 August 14, 2019
+Deadpool 2 - May 10, 2018
+PAW Patrol: Mighty Pups - September 11, 2018
+Aquaman - December 21, 2018 
+Pacific Rim: Uprising - March 23, 2018
+The Kissing Booth - May 18, 2018
+Johnny English Strikes Again - October 26, 2018
 
 # Scifi
 <Add movie name> - <Add release date>
@@ -25,5 +32,14 @@ Gravity - 11 October 2013
 The Martian - 2 October 2015
 Passengers - 2016
 Life - 2017
+Jurassic World: Fallen Kingdom - June 22, 2018
+Bumblebee - December 21, 2018
+The Predator - September 14, 2018
+Pacific Rim: Uprising - March 23, 2018
+Beyond White Space - December 14, 2018
+The First Purge - July 4, 2018
+Rampage - April 13, 2018
+A-X-L - August 24, 2018
+Dragon Ball Super: Broly - December 13, 2018
 Avatar - 2009
 The Matrix - 1999
