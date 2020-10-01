@@ -13,6 +13,8 @@ Grown Ups - 2010
 # Scifi
 <Add movie name> - <Add release date>
 Interstellar - November 2014
-Avengers - Infinity War - 27 April 2018
-Predestination - January 9, 2015
+Avengers: Infinity War - 27 April 2018
+Predestination : January 9, 2015
+Gravity - 11 October 2013 
+The Martian - 2 October 2015
 Passengers - 2016
