@@ -1,2 +1,4 @@
-Benevolence: noun, The quality of being well meaning
-Synonyms: kindness, goodness, goodwill
+<Awesome Word> - <Meaning>
+Hellacious - Awful experience
+Benevolence - noun, The quality of being well meaning
+Synonyms - kindness, goodness, goodwill
