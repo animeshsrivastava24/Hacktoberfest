@@ -11,6 +11,10 @@ Once Upon A Time...In Hollywood - 2019
 Deadpool - 2016
 The Dictator - 2012
 Grown Ups - 2010
+Rush Hour -1998
+Rush Hour 2 -2001
+Rush Hour 3 -2007
+Baby's day out-1994
 
 # Scifi
 <Add movie name> - <Add release date>
