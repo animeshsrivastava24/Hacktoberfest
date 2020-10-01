@@ -1,0 +1,6 @@
+# Comedy
+<Add movie name> <Add release date>
+
+
+# Scifi
+<Add movie name> <Add release date>
