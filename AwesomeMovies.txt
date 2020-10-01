@@ -5,6 +5,10 @@ Deadpool - 12 February 2016
 The Hangover - 2009
 The Hangover 2 - 2011
 The Hangover 3 - 2013
+Once Upon A Time...In Hollywood - 2019
+Deadpool - 2016
+The Dictator - 2012
+Grown Ups - 2010
 
 # Scifi
 <Add movie name> - <Add release date>
@@ -13,3 +17,4 @@ Avengers: Infinity War - 27 April 2018
 Predestination : January 9, 2015
 Gravity - 11 October 2013 
 The Martian - 2 October 2015
+Passengers - 2016
