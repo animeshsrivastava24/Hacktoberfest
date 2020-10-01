@@ -7,6 +7,9 @@ The repository contains:
 1. AwesomeWords.txt contains list of words with their meaning.
 2. AwesomeFacts.txt contains some amazing facts from around the world.
 3. AwesomeMovies.txt contains 2 genre- comedy and scify.
+4. AwesomeMusic.txt contains list of music separated by genres.
+5. AwesomeBooks.txt contains a list of books with their author.
+
 Feel free to add your own .txt files to the repository
 
 # Help for you
