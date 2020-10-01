@@ -1,6 +1,8 @@
 # Comedy
-<Add movie name> <Add release date>
+<3 idiots> <25 December 2009>
+<Deadpool> <12 February 2016>
 
 
 # Scifi
-<Add movie name> <Add release date>
+<Interstellar> <7 November 2014>
+<Avengers: Infinity War> <27 April 2018>
