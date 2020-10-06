@@ -22,6 +22,8 @@ Aquaman - December 21, 2018
 Pacific Rim: Uprising - March 23, 2018
 The Kissing Booth - May 18, 2018
 Johnny English Strikes Again - October 26, 2018
+Who Am I - 1998
+Armour Of God - 1987
 
 # Scifi
 <Add movie name> - <Add release date>
@@ -43,3 +45,4 @@ A-X-L - August 24, 2018
 Dragon Ball Super: Broly - December 13, 2018
 Avatar - 2009
 The Matrix - 1999
+The Foreigner - 2017
