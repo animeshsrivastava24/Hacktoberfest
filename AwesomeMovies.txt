@@ -1,5 +1,6 @@
 # Comedy
 <Add movie name> - <Add release date>
+Humshakals -20 june 2014
 Phir Hera Pheri - 9 June 2006
 3 idiots - 25 December 2009
 Hera Pheri - 31 March 2000
